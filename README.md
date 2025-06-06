@@ -1,5 +1,7 @@
 cypress-automation-askohmdch-app
+
 🛒 E-Commerce Test Automation with Cypress
+
 This project contains automated test scripts for the e-commerce website AskOmDch, written using Cypress. It covers essential user flows such as signup, login, product search, product filter, product sorting, add to cart, checkout,and order management.
 
 📌 Project Overview
