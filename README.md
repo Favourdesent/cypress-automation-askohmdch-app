@@ -1,7 +1,7 @@
-**cypress-automation-askohmdch-app
-**
-**🛒 E-Commerce Test Automation with Cypress
-**
+**cypress-automation-askohmdch-app**
+
+🛒 E-Commerce Test Automation with Cypress
+
 This project contains automated test scripts for the e-commerce website AskOmDch, written using Cypress. It covers essential user flows such as signup, login, product search, product filter, product sorting, add to cart, checkout,and order management.
 
 📌 Project Overview
@@ -37,7 +37,7 @@ Git installed
 Package manager (npm or yarn)
 Installation
 Clone the repo:
-bash git clone git@github.com:Rasheedat-Ajidagba cd Cypress-Automation
+bash git clone git@github.com:favourdesent cd Cypress-Automation
 
 Install dependencies: bash npm init
 
